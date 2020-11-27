@@ -1,0 +1,24 @@
+{
+    "persons": [
+      {
+        "id": 1,
+        "name": "ryota",
+        "details": "He is engineer and investor."
+      },
+      {
+        "id": 2,
+        "name": "hikari",
+        "details": "She is ryota's wife and Infrastructure engineer."
+      },
+      {
+        "id": 3,
+        "name": "hinata",
+        "details": "She is baby and ryota and hikari's daughter."
+      },
+      {
+        "id": 4,
+        "name": "who",
+        "details": "Not born yet."
+      }
+    ]
+  }
